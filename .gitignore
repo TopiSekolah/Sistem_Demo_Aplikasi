@@ -1,0 +1,10 @@
+# Next / ASP.NET
+**/node_modules/
+**/.next/
+**/bin/
+**/obj/
+**/.vs/
+**/PrivateUploads/
+**/.env.local
+**/appsettings.Production.json
+**/*.user
